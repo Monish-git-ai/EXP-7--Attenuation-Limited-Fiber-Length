@@ -4,7 +4,7 @@
 
 ## Aim
 - Calculate the attenuation-limited fiber length based on the power budget equation.  
-- Simulate the resulting system and verify that it meets performance objectives.
+- Simulate the resulting system and verify that it meets performance objectives. 
 
 ---
 
